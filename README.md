@@ -4,4 +4,4 @@ This repository contains the Arduino Mega 2560 and the javascript sources for th
 
 Details on the project shown on [**Project14 Dancing Bird**](https://www.element14.com/community/community/project14/clusteredmcus/blog/2018/10/13/the-dancing-birds).
 
-![The animatronic building](https://github.com/alicemirror/DancingBirds/blob/master/Images/Birds.jpg)
+![The animatronic building](Images/Birds.jpg)
